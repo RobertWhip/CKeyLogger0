@@ -6,4 +6,4 @@ When you'll start the program, it will create a new file - "hostmsg.txt", and ke
 
 Program language - C++;
 
-Os: Win.
+OS: Windows.
